@@ -1,0 +1,5 @@
+**/api_secrets.py
+.DS_Store
+__pycache__
+**/value_screener.xlsx
+.ipynb_checkpoints/
